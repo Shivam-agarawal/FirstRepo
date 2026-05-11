@@ -14,7 +14,7 @@ Welcome to **firstRepo**! This is my first GitHub repository where I’m startin
 
 ## Project Overview
 
-This repository is part of my learning process as I explore and practice programming in **C++, Java, Python**, and other technologies. As a beginner, I am working on small projects and coding exercises to improve my skills. Feel free to explore, and if you have any feedback or tips, I’d love to hear them!
+This repository is part of my learning process as I explore and practice programming in **Java, Python**, and other technologies. As a beginner, I am working on small projects and coding exercises to improve my skills. Feel free to explore, and if you have any feedback or tips, I’d love to hear them!
 
 ## Technologies Used
 
